@@ -8,3 +8,6 @@ b = np.array([50, 534, 2])
 c = a + b
 print(a * b)
 print(c)
+
+
+print("another fucking version")
