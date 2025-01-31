@@ -11,3 +11,4 @@ print(c)
 
 
 print("another fucking version")
+print("GG")
